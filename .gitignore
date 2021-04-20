@@ -1,5 +1,4 @@
 bin/
 build/
-__py_cache__
-.vscode/**
-.cache/**
+**/.vscode/
+**/.cache/
